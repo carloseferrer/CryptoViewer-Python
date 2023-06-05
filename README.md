@@ -14,3 +14,5 @@ pip installl pyqt5-tools
 
 ## Test App
 For Testing the app you need to execute de File called "cryptoviewerapp.exe"
+
+## Technologies Used
