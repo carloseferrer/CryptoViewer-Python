@@ -4,7 +4,7 @@
 CryptoViewer is a Python Software that connects to the CoinGecko API, providing real-time cryptocurrency prices. Which contains an interface built through the use of QTdesigner GUI software.
 
 ## Installation
-To utilize the application in your local environment, it is imperative to install the following libraries using the package manager [pip](https://pip.pypa.io/en/stable/) 
+To utilize the application in your local environment, it is imperative to install the following libraries using the package manager [pip](https://pip.pypa.io/en/stable/). 
 
 ```bash
 pip install pycoingecko 
@@ -13,7 +13,7 @@ pip installl pyqt5-tools
 ```
 
 ## Test App
-For Testing the app without using a Python IDE you need to execute the File called "cryptoviewerapp.exe"
+For Testing the app without using a Python IDE you need to execute the File called "cryptoviewerapp.exe".
 
 ## Technologies Used
 <p align="left"> 
