@@ -9,6 +9,4 @@ In order to use the app locally install the next libraries using the package man
 pip install pycoingecko 
 pip install pyqt5
 pip installl pyqt5-tools
-pip install pyinstaller
-
 ```
