@@ -13,7 +13,7 @@ pip installl pyqt5-tools
 ```
 
 ## Test App
-For Testing the app without using a Python IDE you need to execute the File called "cryptoviewerapp.exe".
+For Testing the app without using a Python IDE you need to execute the file called "cryptoviewerapp.exe".
 
 ## Technologies Used
 <p align="left"> 
